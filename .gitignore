@@ -1,0 +1,4 @@
+**/.vscode-server/
+.vscode/
+__pycache__/
+.DS_Store

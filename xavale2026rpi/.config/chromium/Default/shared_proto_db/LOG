@@ -1,0 +1,4 @@
+2026/05/08-13:33:47.206 863 Reusing MANIFEST /home/xavale2026rpi/.config/chromium/Default/shared_proto_db/MANIFEST-000001
+2026/05/08-13:33:47.216 863 Recovering log #3
+2026/05/08-13:33:47.262 863 (ignoring error) /home/xavale2026rpi/.config/chromium/Default/shared_proto_db/000003.log: dropping 199 bytes; Corruption: missing start of fragmented record(2)
+2026/05/08-13:33:47.265 863 Reusing old log /home/xavale2026rpi/.config/chromium/Default/shared_proto_db/000003.log 

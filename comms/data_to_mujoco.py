@@ -1,0 +1,1 @@
+#  this code will command the robot in mujoco based on data generated in python - e.g., packets or timeseries state control

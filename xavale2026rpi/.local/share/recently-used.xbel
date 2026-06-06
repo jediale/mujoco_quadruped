@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///usr/share/rpd-wallpaper/peaks.jpg" added="2026-02-13T18:57:22.438726Z" modified="2026-02-13T18:57:22.438742Z" visited="2026-02-13T18:57:22.438730Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="rpcc" exec="&apos;rpcc %u&apos;" modified="2026-02-13T18:57:22.438735Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/rpd-wallpaper/license-trixie.txt" added="2026-02-13T18:57:36.974572Z" modified="2026-02-13T18:57:36.974592Z" visited="2026-02-13T18:57:36.974576Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="rpcc" exec="&apos;rpcc %u&apos;" modified="2026-02-13T18:57:36.974583Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/rpd-wallpaper/aurora.jpg" added="2026-02-13T18:57:40.197993Z" modified="2026-02-13T18:57:40.198015Z" visited="2026-02-13T18:57:40.197998Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="rpcc" exec="&apos;rpcc %u&apos;" modified="2026-02-13T18:57:40.198004Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xavale2026rpi/Desktop/MotorTesting/SSH.txt" added="2026-04-02T22:27:52.946719Z" modified="2026-05-19T04:23:34.485064Z" visited="2026-04-02T22:27:52.946724Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 295:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2026-05-19T04:23:34.485055Z" count="25"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xavale2026rpi/Desktop/MotorTesting/motor_test_1.py" added="2026-05-08T04:16:12.346607Z" modified="2026-05-08T04:16:12.346627Z" visited="2026-05-08T04:16:12.346612Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2026-05-08T04:16:12.346620Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xavale2026rpi/Desktop/MotorTesting/motor_test_2.py" added="2026-05-08T04:47:11.591006Z" modified="2026-05-08T04:47:11.591023Z" visited="2026-05-08T04:47:11.591009Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2026-05-08T04:47:11.591017Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xavale2026rpi/Desktop/SSH.txt" added="2026-05-19T04:23:38.607334Z" modified="2026-05-25T22:09:03.772001Z" visited="2026-05-19T04:23:38.607338Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 26:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2026-05-25T22:09:03.771993Z" count="16"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xavale2026rpi/Desktop/MotorTesting/test_joint_1.py" added="2026-05-20T02:46:43.912103Z" modified="2026-05-20T02:46:43.912120Z" visited="2026-05-20T02:46:43.912106Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2026-05-20T02:46:43.912114Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xavale2026rpi/moteus-cal-ACMAJU4wUAQgNDlF-20260519T031016.456914.log" added="2026-05-23T16:51:15.614783Z" modified="2026-05-23T16:51:30.433825Z" visited="2026-05-23T16:51:15.614788Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 1:3;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2026-05-23T16:51:30.433816Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xavale2026rpi/motor3_config.txt" added="2026-05-23T16:51:35.029240Z" modified="2026-05-23T16:51:39.811635Z" visited="2026-05-23T16:51:35.029245Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2026-05-23T16:51:39.811617Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xavale2026rpi" added="2026-05-23T17:37:53.647919Z" modified="2026-05-23T17:37:53.647936Z" visited="2026-05-23T17:37:53.647923Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="pcmanfm" exec="&apos;pcmanfm %u&apos;" modified="2026-05-23T17:37:53.647928Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home" added="2026-05-23T17:38:12.625274Z" modified="2026-05-23T17:38:12.625291Z" visited="2026-05-23T17:38:12.625278Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="pcmanfm" exec="&apos;pcmanfm %u&apos;" modified="2026-05-23T17:38:12.625283Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

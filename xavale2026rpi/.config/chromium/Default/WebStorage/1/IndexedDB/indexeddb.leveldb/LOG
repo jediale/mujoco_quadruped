@@ -1,0 +1,6 @@
+2026/02/13-14:48:30.617 1420 Creating DB /home/xavale2026rpi/.config/chromium/Default/WebStorage/1/IndexedDB/indexeddb.leveldb since it was missing.
+2026/02/13-14:48:30.633 1420 Reusing MANIFEST /home/xavale2026rpi/.config/chromium/Default/WebStorage/1/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/02/13-14:48:32.443 1420 Level-0 table #5: started
+2026/02/13-14:48:32.449 1420 Level-0 table #5: 3393 bytes OK
+2026/02/13-14:48:32.459 1420 Delete type=0 #3
+2026/02/13-14:48:32.462 1420 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,1 @@
+# this code is going to give the opportunity to move and read the sliders within mujoco in order to use those to control the robot IRL IRT.
